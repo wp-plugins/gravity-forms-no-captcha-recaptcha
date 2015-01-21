@@ -7,11 +7,11 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Stable tag: trunk
 
-Adds a No CAPTCHA reCAPTCHA to field Gravity Forms
+Adds "No CAPTCHA reCAPTCHA" field to Gravity Forms as an alternative CAPTCHA option
 
 == Description ==
 
-Adds a No CAPTCHA reCAPTCHA to field type Gravity Forms form builder with light/dark theme options. Forms with No CAPTCHA reCAPTCHA will then validate the field before successful submission.
+Adds a "No CAPTCHA reCAPTCHA" field type to Gravity Forms form builder with light/dark theme options. Forms with a "No CAPTCHA reCAPTCHA" will validate the field before successful submission.
 
 [Official GitHub Repository](https://github.com/folkhack/Gravity-Forms-No-CAPTCHA-reCAPTCHA)
 
@@ -46,6 +46,12 @@ Normally this situation comes up if you have more than one Gravity Form with CAP
 3. Adding the No CAPTCHA field to the Gravity Forms form builder
 
 == Changelog ==
+
+# 1.0.6
+* Resolved confusing grammar issue in README.md, README.txt, and gf-no-captcha-recaptcha.php descriptions
+* Updated to 1.0.6 version in gf-no-captcha-recaptcha.php
+* Added 1.0.6 tag updates to CHANGELOG.md
+* Updated plugin Changelog in README.txt to reflect CHANGELOG.md
 
 # 1.0.5
 * Updated banner image to not suck in regards to WordPress Plugin Directory
