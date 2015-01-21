@@ -9,11 +9,11 @@ Stable tag: trunk
 
 Adds a No CAPTCHA reCAPTCHA to field Gravity Forms
 
-[Official GitHub Repository](https://github.com/folkhack/Gravity-Forms-No-CAPTCHA-reCAPTCHA)
-
 == Description ==
 
 Adds a No CAPTCHA reCAPTCHA to field type Gravity Forms form builder with light/dark theme options. Forms with No CAPTCHA reCAPTCHA will then validate the field before successful submission.
+
+[Official GitHub Repository](https://github.com/folkhack/Gravity-Forms-No-CAPTCHA-reCAPTCHA)
 
 == Installation ==
 
@@ -46,6 +46,20 @@ Normally this situation comes up if you have more than one Gravity Form with CAP
 3. Adding the No CAPTCHA field to the Gravity Forms form builder
 
 == Changelog ==
+
+# 1.0.5
+* Updated banner image to not suck in regards to WordPress Plugin Directory
+* Moved GitHub Repo link to appropriate spot within description
+* Updated plugin version and links in gf-no-captcha-recaptcha.php
+* Updated plugin Changelog in README.txt to reflect CHANGELOG.md
+* Added 1.0.5 tag updates to CHANGELOG.md
+
+# 1.0.4
+* Added trunk as stable tag to README.txt
+* Approved for WordPress Plugin Directory at [Gravity Forms No CAPTCHA reCAPTCHA](https://wordpress.org/plugins/gravity-forms-no-captcha-recaptcha/)
+* Cross-linked README.md (GitHub readme) and README.txt (WP Plugin readme) to GitHub repo and WP Plugin page
+* Removed "submit to WP plugin directory" from to-do/roadmap from README.md
+* Added 1.0.4 tag updates to CHANGELOG.md
 
 = 1.0.3 =
 * Updated README.txt documentation
